@@ -1,138 +1,30 @@
-# Yixian Low - Personal GitHub Pages Site
+# Yixian Low - Personal Portfolio
 
-A unique, modern, and interactive personal website showcasing my skills, projects, and personality! This site features beautiful animations, smooth interactions, and subtle personal touches that add character to the professional portfolio.
+A passionate developer focused on using technology to improve people's lives. I believe in building solutions that make a real difference in people's daily experiences.
 
-## 🎨 Features
+## About Me
 
-### Visual Design
-- **Modern Gradient Background**: Beautiful purple-blue gradient that creates depth
-- **Glass Morphism**: Frosted glass effect on cards with backdrop blur
-- **Responsive Design**: Fully responsive across all devices
-- **Custom Animations**: Smooth scroll animations and interactive elements
+- **Product-focused developer** who sees code as a tool to achieve goals
+- **Passionate learner** - always eager to learn new skills and technologies
+- **Versatile developer** comfortable across multiple languages and platforms
+- **Dog lover** who believes in work-life balance
 
-### Interactive Elements
-- **Floating Elements**: Animated icons (💻, 🚀, 🐕) that float around the hero section
-- **Clickable Elements**: Click on the floating elements to see fun messages
-- **Typing Effect**: The tagline types out character by character
-- **Confetti Effects**: Social media links trigger colorful confetti
-- **Particle System**: Subtle floating particles in the background
-- **Hover Effects**: Interactive hover states on all clickable elements
+## Featured Projects
 
-### Sections
-1. **Hero Section**: Personal introduction with animated elements
-2. **About Me**: Personal story with dog-themed facts
-3. **Skills**: Organized by category with interactive tags
-4. **Projects**: Featured projects with hover effects
-5. **Contact**: Call-to-action buttons with animations
+- **Lucky Paws**: A web application designed to improve the lives of dog owners
+- **Wonder Cells**: A puzzle-platformer game where I led a team of 10 developers as Producer and Tools Programmer at DigiPen Institute of Technology
 
-## 🚀 Getting Started
+## Skills
 
-### Prerequisites
-- A GitHub account
-- Basic knowledge of HTML, CSS, and JavaScript
+- **Backend**: C++, Golang, Kotlin, Java, JavaScript
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Tools**: Git, Docker, VS Code
+- **Approach**: Product-Focused, Code as Tool, User-Centric, Goal-Oriented
 
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yixianlow/yixianlow.github.io.git
-   ```
+## Contact
 
-2. Customize the content:
-   - Update personal information in `index.html`
-   - Modify colors and styling in `styles.css`
-   - Add custom interactions in `script.js`
-
-3. Push to GitHub:
-   ```bash
-   git add .
-   git commit -m "Initial commit"
-   git push origin main
-   ```
-
-4. Enable GitHub Pages:
-   - Go to your repository settings
-   - Scroll down to "GitHub Pages"
-   - Select "main" branch as source
-   - Your site will be available at `https://yixianlow.github.io`
-
-## 🎯 Customization
-
-### Personal Information
-Edit the following in `index.html`:
-- Name and tagline
-- Social media links
-- About me content
-- Skills and technologies
-- Project information
-- Contact details
-
-### Styling
-Modify `styles.css` to change:
-- Color scheme (update gradient values)
-- Fonts (change Google Fonts import)
-- Animations (adjust timing and effects)
-- Layout (modify grid and flexbox properties)
-
-### Interactions
-Customize `script.js` to add:
-- New animations
-- Interactive features
-- Custom effects
-- Additional functionality
-
-## 🎯 Personal Touches
-
-The site includes several personal elements:
-- Floating icons (💻, 🚀, 🐕) representing tech, ambition, and personal life
-- Personal facts in the about section including a subtle mention of being a dog lover
-- Bouncing icons in the footer
-- Fun messages when clicking floating elements
-- "Made with ❤️ and 💻" in the footer
-
-## 📱 Responsive Design
-
-The site is fully responsive and works on:
-- Desktop computers
-- Tablets
-- Mobile phones
-- All modern browsers
-
-## 🎨 Color Scheme
-
-The current color scheme uses:
-- **Primary**: Purple gradient (#667eea to #764ba2)
-- **Accent**: Coral (#ff6b6b) and Teal (#4ecdc4)
-- **Background**: White with transparency
-- **Text**: Dark gray (#333) and medium gray (#666)
-
-## 🔧 Technical Details
-
-### Technologies Used
-- **HTML5**: Semantic markup
-- **CSS3**: Modern styling with Grid and Flexbox
-- **JavaScript (ES6+)**: Interactive features and animations
-- **Font Awesome**: Icons
-- **Google Fonts**: Inter font family
-
-### Browser Support
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Feel free to fork this project and customize it for your own use! If you make any cool improvements, I'd love to see them.
-
-## 📞 Contact
-
+- **Email**: yixianlow@hotmail.com
 - **GitHub**: [@yixianlow](https://github.com/yixianlow)
-- **Email**: yixian@example.com
-- **LinkedIn**: [yixianlow](https://linkedin.com/in/yixianlow)
 
 ---
 
