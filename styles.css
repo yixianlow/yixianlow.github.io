@@ -245,10 +245,35 @@ section h2 {
 }
 
 /* Skills Section */
+.skills-note {
+    text-align: center !important;
+    color: #555 !important;
+    font-style: italic !important;
+    margin-bottom: 4rem !important;
+    padding: 1.5rem !important;
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.05) 0%, rgba(118, 75, 162, 0.05) 100%) !important;
+    border-radius: 15px !important;
+    border: 1px solid rgba(102, 126, 234, 0.2) !important;
+    font-size: 0.8rem !important;
+    line-height: 1.6 !important;
+    position: relative !important;
+    backdrop-filter: blur(10px) !important;
+    box-shadow: 0 5px 20px rgba(102, 126, 234, 0.1) !important;
+    transition: all 0.3s ease !important;
+}
+
+.skills-note:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(102, 126, 234, 0.15);
+}
+
+
+
 .skills-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 2rem;
+    margin-top: 1rem;
 }
 
 .skill-category h3 {
